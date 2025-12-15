@@ -3,7 +3,7 @@
 A Spring Boot REST API for managing Users, Projects and tasks with JWT Authentication
 
 # How to Run
-Will provide the ZIP file for the project. Extract it and update the configurations to Java 17 
+Extract the ZIP file for the project. Extract it and update the configurations to Java 17 
 
 # Create DataBase
 Create database project_management
